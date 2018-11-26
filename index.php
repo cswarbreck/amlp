@@ -18,6 +18,7 @@ get_header(); ?>
 <div class="wrap">
 	<div class=" homepage-content">
 		<h1><?php esc_html_e( 'THIS IS A BLANK TEMPLATE' ); ?></h1>
+		<h2><?php esc_html_e( 'Dave made an h2' ); ?></h2>
 		<p>
 			<?php
 				esc_html_e("If the background is pink, you're in the right place" );
